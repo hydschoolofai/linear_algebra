@@ -2,6 +2,9 @@
 
 Linear Algebra documentaion and resource details
 
+ Install python 3.6 from [Anaconda](https://www.anaconda.com/download/) And Instalation Guide [Link](https://www.youtube.com/watch?v=LrMOrMb8-3s)
+
+
 ## Python notebooks
 
 Python notebooks on Linear Algebra are available in `python_notebooks` folder.
@@ -22,9 +25,5 @@ There are many more resourses, a few listed below
 
 * Linear Algebra Review and Reference, by `"Zico Kolter (updated by Chuong Do)"`, [PDF link](pdfs/linear_algebra_review_and_reference.pdf)
 
-### Prerequsites
- 1.This is not mandatory but we will use Jupyter Notebook 
- Install python 3.6 from [Anaconda](https://www.anaconda.com/download/) And Instalation Guide[Link](https://www.youtube.com/watch?v=LrMOrMb8-3s)
 
-2.Tutorial for Github [Git Basics](https://guides.github.com/activities/hello-world)
 
