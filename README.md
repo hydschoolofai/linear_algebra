@@ -22,7 +22,7 @@ There are many more resourses, a few listed below
 
 * Linear Algebra Review and Reference, by `"Zico Kolter (updated by Chuong Do)"`, [PDF link](pdfs/linear_algebra_review_and_reference.pdf)
 
-##Prerequsites
+### Prerequsites
  1.This is not mandatory but we will use Jupyter Notebook 
  Install python 3.6 from [Anaconda](https://www.anaconda.com/download/) And Instalation Guide[Link](https://www.youtube.com/watch?v=LrMOrMb8-3s)
 
