@@ -2,8 +2,11 @@
 
 Linear Algebra documentaion and resource details
 
+## Prerequsites
+ 1.This is not mandatory but we will use Jupyter Notebook 
  Install python 3.6 from [Anaconda](https://www.anaconda.com/download/) And Instalation Guide [Link](https://www.youtube.com/watch?v=LrMOrMb8-3s)
 
+2.Tutorial for Github [Git Basics](https://guides.github.com/activities/hello-world)
 
 ## Python notebooks
 
