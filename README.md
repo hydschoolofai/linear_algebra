@@ -18,6 +18,8 @@ There are many more resourses, a few listed below
 
 * Linear Algebra course from Khan Academy. [Course link](https://www.khanacademy.org/math/linear-algebra)
 
+* [Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning), this is not just specific to Linear Algebra, rather this talks about all the Mathematical concepts needed for Machine Learning.
+
 ### PDF books
 
 * Linear Algebra Review and Reference, by `"Zico Kolter (updated by Chuong Do)"`, [PDF link](pdfs/linear_algebra_review_and_reference.pdf)
