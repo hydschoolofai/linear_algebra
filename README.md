@@ -2,6 +2,15 @@
 
 Linear Algebra documentaion and resource details
 
+## Prerequisites
+
+* This is not mandatory but we will use Jupyter Notebooks for collaboration
+
+  * Install python 3.6 from [Anaconda](https://www.anaconda.com/download/) and
+  * Follow Installation Guide [Link](https://www.youtube.com/watch?v=LrMOrMb8-3s) to install same.
+
+* Go through the Github tutorial for [Git Basics](https://guides.github.com/activities/hello-world).
+
 ## Python notebooks
 
 Python notebooks on Linear Algebra are available in `python_notebooks` folder.
